@@ -8,4 +8,9 @@ Creating a new branch is quick and simple.
 =======
 there was changed again by english
 >>>>>>> feature
+<<<<<<< HEAD
 it is a new branch names issue01.
+=======
+
+learn how to save work.
+>>>>>>> dev
